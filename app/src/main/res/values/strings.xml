@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DateTimePicker</string>
+    <string name="label_today">Today</string>
+    <string name="label_tomorrow">Tomorrow</string>
+    <string name="label_hour">Hour</string>
+    <string name="label_when">When</string>
+</resources>

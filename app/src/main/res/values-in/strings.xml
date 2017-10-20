@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_today">Hari Ini</string>
+    <string name="label_tomorrow">Besok</string>
+    <string name="label_hour">Jam</string>
+    <string name="label_when">Kapan</string>
+</resources>
